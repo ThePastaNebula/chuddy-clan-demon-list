@@ -1,6 +1,6 @@
-import List from './pages/List.js';
-import Leaderboard from './pages/Leaderboard.js';
-import Roulette from './pages/Roulette.js';
+import List from '/chuddy-clan-demon-list/js/pages/List.js';
+import Leaderboard from '/chuddy-clan-demon-list/js/pages/Leaderboard.js';
+import Roulette from '/chuddy-clan-demon-list/js/pages/Roulette.js';
 
 export default [
     { path: '/', component: List },
