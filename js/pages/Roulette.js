@@ -1,8 +1,8 @@
-import { fetchList } from '../content.js';
-import { getThumbnailFromId, getYoutubeIdFromUrl, shuffle } from '../util.js';
+import { fetchList } from '/chuddy-clan-demon-list/js/content.js';
+import { getThumbnailFromId, getYoutubeIdFromUrl, shuffle } from '/chuddy-clan-demon-list/js/util.js';
 
-import Spinner from '../components/Spinner.js';
-import Btn from '../components/Btn.js';
+import Spinner from '/chuddy-clan-demon-list/js/components/Spinner.js';
+import Btn from '/chuddy-clan-demon-list/js/components/Btn.js';
 
 export default {
     components: { Spinner, Btn },
