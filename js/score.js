@@ -7,7 +7,7 @@ const scale = 3;
 let totalLevels = 150;
 
 // Load levels list and update totalLevels dynamically
-const List = '/chuddy-clan-demon-list/data/_list.json';
+const List = '/chuddy-clan-demon-list/data/1list.json';
 
 fetch(List)
   .then(res => {
