@@ -1,9 +1,15 @@
 {
     "name": "niwa",
     "author": "Teno",
-    "verifier": "therealGDF",
-    "verification": "https://www.youtube.com/watch?v=S-4Hb_94JHs",
+    "verifier": "xyzJake",
+    "verification": "https://www.youtube.com/watch?v=",
     "records": [
+        {
+            "user": "therealGDF",
+            "link": "https://www.youtube.com/watch?v=S-4Hb_94JHs",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Fearme718",
             "link": "https://www.youtube.com/watch?v=BGWlkP3ML6Q",
