@@ -1,0 +1,14 @@
+{
+    "name": "Precipitance",
+    "author": "Extravagon",
+    "verifier": "ThePastaNebula",
+    "verification": "https://www.youtube.com/watch?v=-jCa9CbL-F8",
+    "records": [
+        {
+            "user": "therealGDF",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

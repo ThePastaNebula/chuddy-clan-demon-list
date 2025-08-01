@@ -1,0 +1,20 @@
+{
+    "name": "Anoxysm",
+    "author": "Lemons",
+    "verifier": "Skyia321",
+    "verification": "https://www.youtube.com/watch?v=7sNvuC09FEU",
+    "records": [
+        {
+            "user": "ThePastaNebula",
+            "link": "https://www.youtube.com/watch?v=20_XXGKGblE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "therealGDF",
+            "link": "https://www.youtube.com/watch?v=_2tWkt_gEEE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

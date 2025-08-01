@@ -1,0 +1,32 @@
+{
+    "name": "Cataclysm",
+    "author": "Ggb0y",
+    "verifier": "ThePastaNebula",
+    "verification": "https://www.youtube.com/watch?v=uH2TtsJxv_o",
+    "records": [
+        {
+            "user": "Fearme718",
+            "link": "https://www.youtube.com/watch?v=b8kUuq1uviU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Skyia321",
+            "link": "https://www.youtube.com/watch?v=5Vac9FVuOi4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Muffin Cat",
+            "link": "https://www.youtube.com/watch?v=gY8S5VEUHtU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "therealGDF",
+            "link": "https://www.youtube.com/watch?v=lrHEHxpgvpc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

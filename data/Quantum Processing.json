@@ -1,0 +1,14 @@
+{
+    "name": "Quantum Processing",
+    "author": "Riot",
+    "verifier": "ThePastaNebula",
+    "verification": "https://www.youtube.com/watch?v=wn0ZDFIOCZM",
+    "records": [
+        {
+            "user": "therealGDF",
+            "link": "https://www.youtube.com/watch?v=cm3lNyu65gc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

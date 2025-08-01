@@ -1,0 +1,14 @@
+{
+    "name": "Sonic Wave",
+    "author": "lSunix",
+    "verifier":"therealGDF",
+    "verification": "https://www.youtube.com/watch?v=QmfGSLxA_jM",
+    "records": [
+        {
+            "user": "ThePastaNebula",
+            "link": "https://www.youtube.com/watch?v=hN4YhPy_Xt4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

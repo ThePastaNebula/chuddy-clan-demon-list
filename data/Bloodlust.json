@@ -1,0 +1,14 @@
+{
+    "name": "Bloodlust",
+    "author": "Knobbelboy",
+    "verifier": "ThePastaNebula",
+    "verification": "https://www.youtube.com/watch?v=07nMPUz12Qk",
+    "records": [
+        {
+            "user": "therealGDF",
+            "link": "https://www.youtube.com/watch?v=pR6zvwaMEt0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

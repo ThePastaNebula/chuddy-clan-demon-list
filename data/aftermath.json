@@ -1,0 +1,20 @@
+{
+    "name": "aftermath",
+    "author": "IIExenityII",
+    "verifier": "ThePastaNebula",
+    "verification": "https://www.youtube.com/watch?v=31_3luCPBZs",
+    "records": [
+        {
+            "user": "Fearme718",
+            "link": "https://www.youtube.com/watch?v=80MD-pY_zbM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Muffin Cat",
+            "link": "https://www.youtube.com/watch?v=60ciCX9KCB4",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
