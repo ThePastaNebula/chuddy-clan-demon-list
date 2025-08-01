@@ -6,7 +6,7 @@ import { round, score } from '/chuddy-clan-demon-list/js/score.js';
 const dir = '/chuddy-clan-demon-list/data';
 
 export async function fetchList() {
-    const listResult = await fetch(`${dir}/_list.json`);
+    const listResult = await fetch(`${dir}/1list.json`);
     try {
         const list = await listResult.json();
         return await Promise.all(
@@ -38,7 +38,7 @@ export async function fetchList() {
 
 export async function fetchEditors() {
     try {
-        const editorsResults = await fetch(`${dir}/_editors.json`);
+        const editorsResults = await fetch(`${dir}/1editors.json`);
         const editors = await editorsResults.json();
         return editors;
     } catch {
