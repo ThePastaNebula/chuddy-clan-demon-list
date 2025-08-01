@@ -1,7 +1,7 @@
-import { fetchLeaderboard } from '../content.js';
-import { localize } from '../util.js';
+import { fetchLeaderboard } from '/chuddy-clan-demon-list/js/content.js';
+import { localize } from '/chuddy-clan-demon-list/js/util.js';
 
-import Spinner from '../components/Spinner.js';
+import Spinner from '/chuddy-clan-demon-list/js/components/Spinner.js';
 
 export default {
     components: {
