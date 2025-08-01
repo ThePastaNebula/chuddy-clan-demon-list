@@ -1,10 +1,10 @@
-import { store } from "../main.js";
-import { embed } from "../util.js";
-import { score } from "../score.js";
-import { fetchEditors, fetchList } from "../content.js";
+import { store } from "/chuddy-clan-demon-list/js/main.js";
+import { embed } from "/chuddy-clan-demon-list/js/util.js";
+import { score } from "/chuddy-clan-demon-list/js/score.js";
+import { fetchEditors, fetchList } from "/chuddy-clan-demon-list/js/content.js";
 
-import Spinner from "../components/Spinner.js";
-import LevelAuthors from "../components/List/LevelAuthors.js";
+import Spinner from "/chuddy-clan-demon-list/js/components/Spinner.js";
+import LevelAuthors from "/chuddy-clan-demon-list/js/components/List/LevelAuthors.js";
 
 const roleIconMap = {
     owner: "crown",
