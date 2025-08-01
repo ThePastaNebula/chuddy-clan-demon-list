@@ -10,17 +10,17 @@ let totalLevels = 150;
 const List = '/chuddy-clan-demon-list/data/1list.json';
 
 fetch(List)
-  .then(res => {
+.then(res => {
     if (!res.ok) throw new Error(`Failed to fetch levels: ${res.status}`);
     return res.json();
-  })
-  .then(levelList => {
+})
+.then(levelList => {
     totalLevels = levelList.length;
     console.log('Loaded totalLevels:', totalLevels);
-  })
-  .catch(err => {
+})
+.catch(err => {
     console.error('Failed to load level list:', err);
-  });
+});
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level
@@ -28,6 +28,7 @@ fetch(List)
  * @param {Number} percent Percentage of completion
  * @returns {Number}
  */
+
 export function score(rank, percent, minPercent) {
     if (rank > totalLevels) {
         return 0;
@@ -37,7 +38,7 @@ export function score(rank, percent, minPercent) {
     }
 
     let score = 250 * Math.exp(
-      -Math.log(2500) / Math.pow(totalLevels - 1, 1.2) * Math.pow(rank - 1, 1.2)
+      -Math.log(250) / Math.pow(totalLevels - 1, 1.2) * Math.pow(rank - 1, 1.2)
     ) * (percent / 100);
 
     score = Math.max(0, score);
