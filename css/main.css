@@ -61,12 +61,11 @@ header {
     }
 }
 header .logo {
-    justify-self: start;
+    justify-self: end;
     align-self: center;
     display: flex;
     align-items: flex-end;
     gap: 1rem;
-    padding-inline: 1rem;
 }
 header .nav {
     flex: 1;
