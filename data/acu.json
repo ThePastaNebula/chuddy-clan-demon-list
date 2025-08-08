@@ -23,6 +23,12 @@
             "hz": 120
         },
         {
+            "user": "Fearme718",
+            "link": "https://www.youtube.com/watch?v=n0i7NMC0F0w",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Minix",
             "link": "https://www.youtube.com/watch?v=",
             "percent": 100,
@@ -36,3 +42,4 @@
         }
     ]
 }
+
