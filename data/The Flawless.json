@@ -4,5 +4,12 @@
     "verifier": "Fearme718",
     "verification": "https://www.youtube.com/watch?v=nubX0l_uC1M",
     "records": [
+        {
+            "user": "Sim0",
+            "link": "https://www.youtube.com/watch?v=rXidImsPOtQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
+
 }
