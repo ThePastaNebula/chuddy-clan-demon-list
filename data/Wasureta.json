@@ -5,10 +5,17 @@
     "verification": "https://www.youtube.com/watch?v=892RTCoy1hM",
     "records": [
         {
+            "user": "Sim0",
+            "link": "https://www.youtube.com/watch?v=Uri2eq7qsq4",
+            "percent": 100,
+            "hz": 480
+        },
+        {
             "user": "Minix",
             "link": "https://www.youtube.com/watch?v=mT3svaFFKZE",
             "percent": 100,
             "hz": 360
         }
     ]
+
 }
