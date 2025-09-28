@@ -1,15 +1,16 @@
 {
     "name": "Down Bass",
     "author": "Spectruh",
-    "verifier": "therealGDF",
-    "verification": "https://youtu.be/lPdmB6oh62E",
+    "verifier": "Sim0",
+    "verification": "https://www.youtube.com/watch?v=45UHlYx61h0",
     "records": [
         {
-            "user": "Sim0",
-            "link": "https://www.youtube.com/watch?v=45UHlYx61h0",
+            "user": "therealGDF",
+            "link": "https://www.youtube.com/watch?v=lPdmB6oh62E",
             "percent": 100,
             "hz": 240
         }
     ]
 
 }
+
