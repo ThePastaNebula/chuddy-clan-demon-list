@@ -4,5 +4,12 @@
     "verifier": "therealGDF",
     "verification": "https://youtu.be/lPdmB6oh62E",
     "records": [
+        {
+            "user": "Sim0",
+            "link": "https://www.youtube.com/watch?v=45UHlYx61h0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
+
 }
