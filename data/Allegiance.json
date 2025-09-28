@@ -5,6 +5,12 @@
     "verification": "https://www.youtube.com/watch?v=9deiLo3CM3Q",
     "records": [
         {
+            "user": "Sim0",
+            "link": "https://www.youtube.com/watch?v=w7o9-A-I4dU",
+            "percent": 100,
+            "hz": 244
+        },
+        {
             "user": "Skyia321",
             "link": "https://www.youtube.com/watch?v=BRFphOVGffU",
             "percent": 100,
@@ -30,3 +36,4 @@
         }
     ]
 }
+
