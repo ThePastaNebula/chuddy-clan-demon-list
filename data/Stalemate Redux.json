@@ -4,5 +4,12 @@
     "verifier": "Skyia321",
     "verification": "https://www.youtube.com/watch?v=oTgCjiRD8Ng",
     "records": [
+        {
+            "user": "Sim0",
+            "link": "https://www.youtube.com/watch?v=xklHhux3OKk",
+            "percent": 100,
+            "hz": 480
+        },
     ]
+
 }
