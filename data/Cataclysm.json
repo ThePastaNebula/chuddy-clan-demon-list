@@ -11,6 +11,12 @@
             "hz": 360
         },
         {
+            "user": "Sim0",
+            "link": "https://www.youtube.com/watch?v=",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Skyia321",
             "link": "https://www.youtube.com/watch?v=5Vac9FVuOi4",
             "percent": 100,
@@ -29,4 +35,5 @@
             "hz": 240
         }
     ]
+
 }
