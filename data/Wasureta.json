@@ -1,14 +1,14 @@
 {
     "name": "Wasureta",
     "author": "Crazen",
-    "verifier": "xyzJake",
-    "verification": "https://www.youtube.com/watch?v=892RTCoy1hM",
+    "verifier": "Sim0",
+    "verification": "https://www.youtube.com/watch?v=Uri2eq7qsq4",
     "records": [
         {
-            "user": "Sim0",
-            "link": "https://www.youtube.com/watch?v=Uri2eq7qsq4",
+            "user": "xyzJake",
+            "link": "https://www.youtube.com/watch?v=892RTCoy1hM",
             "percent": 100,
-            "hz": 480
+            "hz": 360
         },
         {
             "user": "Minix",
@@ -19,3 +19,4 @@
     ]
 
 }
+
