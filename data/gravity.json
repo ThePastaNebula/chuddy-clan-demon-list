@@ -4,7 +4,13 @@
     "verifier": "Muffin Cat",
     "verification": "https://www.youtube.com/watch?v=DuCqAbcC0jc",
     "records": [
-
+        {
+            "user": "Minix",
+            "link": "https://www.youtube.com/watch?v=TObOjsiptv8",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 
 }
+
