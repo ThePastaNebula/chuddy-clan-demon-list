@@ -4,5 +4,12 @@
     "verifier": "therealGDF",
     "verification": "https://www.youtube.com/watch?v=vKIDjMOMBdc",
     "records": [
+        {
+            "user": "CircularCyclone",
+            "link": "https://www.youtube.com/watch?v=",
+            "percent": 100,
+            "hz": 240
+        }
     ]
+
 }
