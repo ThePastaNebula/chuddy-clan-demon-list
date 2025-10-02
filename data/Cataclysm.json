@@ -29,6 +29,12 @@
             "hz": 120
         },
         {
+            "user": "CircularCyclone",
+            "link": "https://www.youtube.com/watch?v=",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "therealGDF",
             "link": "https://www.youtube.com/watch?v=lrHEHxpgvpc",
             "percent": 100,
@@ -37,3 +43,4 @@
     ]
 
 }
+
