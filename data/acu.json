@@ -1,9 +1,15 @@
 {
     "name": "acu",
     "author": "neigefeu",
-    "verifier": "therealGDF",
-    "verification": "https://www.youtube.com/watch?v=BNB8MAVO3iw",
+    "verifier": "gado",
+    "verification": "https://www.youtube.com/watch?v=fiWH1pT5Jvw",
     "records": [
+        {
+            "user": "therealGDF",
+            "link": "https://www.youtube.com/watch?v=BNB8MAVO3iw",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "ThePastaNebula",
             "link": "https://www.youtube.com/watch?v=BhRzDKlYm_4",
@@ -54,6 +60,7 @@
         }
     ]
 }
+
 
 
 
