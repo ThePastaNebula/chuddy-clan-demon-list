@@ -11,6 +11,12 @@
             "hz": 360
         },
         {
+            "user": "gado",
+            "link": "https://www.youtube.com/watch?v=X1xOy5jFskA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Skyia321",
             "link": "https://www.youtube.com/watch?v=Zj8tMyh6_eo",
             "percent": 100,
@@ -48,5 +54,6 @@
         }
     ]
 }
+
 
 
