@@ -6,6 +6,12 @@
     "records": [
         {
             "user": "Fearme718",
+            "link": "https://www.youtube.com/watch?v=PfBjwinrK1w",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "gado",
             "link": "https://www.youtube.com/watch?v=b8kUuq1uviU",
             "percent": 100,
             "hz": 360
@@ -43,4 +49,5 @@
     ]
 
 }
+
 
