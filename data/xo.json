@@ -4,5 +4,12 @@
     "verifier":"ThePastaNebula",
     "verification": "https://www.youtube.com/watch?v=M8KufIrSKlg",
     "records": [
+        {
+            "user": "gado",
+            "link": "https://www.youtube.com/watch?v=pgDecOTJvXc",
+            "percent": 100,
+            "hz": 360
+        }
     ]
+
 }
