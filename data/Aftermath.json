@@ -5,6 +5,12 @@
     "verification": "https://www.youtube.com/watch?v=31_3luCPBZs",
     "records": [
         {
+            "user": "gado",
+            "link": "https://www.youtube.com/watch?v=HFyoL1l8ejE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Sim0",
             "link": "https://www.youtube.com/watch?v=F5PCEsZ1sbE",
             "percent": 100,
