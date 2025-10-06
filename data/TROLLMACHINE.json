@@ -2,7 +2,14 @@
     "name": "TROLLMACHINE",
     "author": "TROLLM4CHINE",
     "verifier": "Minix",
-    "verification": "https://www.youtube.com/watch?v=",
+    "verification": "https://www.youtube.com/watch?v=hTRaWvZUNDE",
     "records": [
+        {
+            "user": "Minix",
+            "link": "https://www.youtube.com/watch?v=",
+            "percent": 100,
+            "hz": 280
+        },
     ]
+
 }
