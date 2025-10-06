@@ -1,8 +1,15 @@
 {
     "name": "Killbot",
     "author": "BoldStep",
-    "verifier": "ThePastaNebula",
-    "verification": "http://www.youtube.com/watch?v=7oUOAcTYro8",
+    "verifier": "gado",
+    "verification": "https://www.youtube.com/watch?v=XAzsnDHCaWQ",
     "records": [
+        {
+            "user": "ThePastaNebula",
+            "link": "http://www.youtube.com/watch?v=7oUOAcTYro8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
+
 }
