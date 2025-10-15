@@ -4,5 +4,12 @@
     "verifier": "therealGDF",
     "verification": "https://youtu.be/VFKUZOOlyC0",
     "records": [
+        {
+            "user": "Minix",
+            "link": "https://www.youtube.com/watch?v=",
+            "percent": 100,
+            "hz": 280
+        }
     ]
+
 }
