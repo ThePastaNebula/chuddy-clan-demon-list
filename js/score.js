@@ -37,8 +37,8 @@ export function score(rank, percent, minPercent) {
         return 0;
     }
 
-    let score = 250 * Math.exp(
-      -Math.log(250) / Math.pow(totalLevels - 1, 1.2) * Math.pow(rank - 1, 1.2)
+    let score = 500 * Math.exp(
+      -Math.log(500) / Math.pow(totalLevels - 1, 1.2) * Math.pow(rank - 1, 1.2)
     ) * (percent / 100);
 
     score = Math.max(0, score);
