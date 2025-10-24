@@ -4,5 +4,11 @@
     "verifier": "xyzJake",
     "verification": "https://www.youtube.com/watch?v=9GfvWJV8GCg",
     "records": [
+        {
+            "user": "Minix",
+            "link": "https://www.youtube.com/watch?v=BQVc6LcTlfg",
+            "percent": 100,
+            "hz": 280
+        }
     ]
 }
