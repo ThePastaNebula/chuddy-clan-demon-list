@@ -1,12 +1,12 @@
 {
     "name": "niwa",
     "author": "Teno",
-    "verifier": "Slxyer_?",
-    "verification": "https://www.youtube.com/watch?v=zlicCvYyLqE",
+    "verifier": "xyzJake",
+    "verification": "https://www.youtube.com/watch?v=",
     "records": [
         {
-            "user": "xyzJake",
-            "link": "https://www.youtube.com/watch?v=",
+            "user": "Slxyer_?",
+            "link": "https://www.youtube.com/watch?v=zlicCvYyLqE",
             "percent": 100,
             "hz": 240
         },
@@ -36,6 +36,7 @@
         }
     ]
 }
+
 
 
 
