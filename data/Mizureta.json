@@ -5,6 +5,12 @@
     "verification": "https://youtu.be/VFKUZOOlyC0",
     "records": [
         {
+            "user": "Slxyer_?",
+            "link": "https://www.youtube.com/watch?v=k3M8uYmmk5o",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Minix",
             "link": "https://www.youtube.com/watch?v=sDYT9XgL68g",
             "percent": 100,
@@ -13,4 +19,5 @@
     ]
 
 }
+
 
