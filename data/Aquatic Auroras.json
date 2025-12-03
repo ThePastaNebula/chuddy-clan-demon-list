@@ -4,5 +4,12 @@
     "verifier": "therealGDF",
     "verification": "https://www.youtube.com/watch?v=ZQ6Evl8WMcM",
     "records": [
+        {
+            "user": "Skyia321",
+            "link": "http://www.youtube.com/watch?v=ME6poG0lR_4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
+
