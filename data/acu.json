@@ -1,15 +1,9 @@
 {
     "name": "acu",
     "author": "neigefeu",
-    "verifier": "gado",
-    "verification": "https://www.youtube.com/watch?v=fiWH1pT5Jvw",
+    "verifier": "therealGDF",
+    "verification": "https://www.youtube.com/watch?v=BNB8MAVO3iw",
     "records": [
-        {
-            "user": "therealGDF",
-            "link": "https://www.youtube.com/watch?v=BNB8MAVO3iw",
-            "percent": 100,
-            "hz": 360
-        },
         {
             "user": "ThePastaNebula",
             "link": "https://www.youtube.com/watch?v=BhRzDKlYm_4",
@@ -19,6 +13,12 @@
         {
             "user": "Skyia321",
             "link": "https://www.youtube.com/watch?v=uFcS3guCcNo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "gado",
+            "link": "https://www.youtube.com/watch?v=fiWH1pT5Jvw",
             "percent": 100,
             "hz": 360
         },
@@ -66,6 +66,7 @@
         }
     ]
 }
+
 
 
 
