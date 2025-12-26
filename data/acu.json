@@ -53,12 +53,6 @@
             "hz": 240
         },
         {
-            "user": "vertu",
-            "link": "https://www.youtube.com/watch?v=xbVJv_EGMg0",
-            "percent": 100,
-            "hz": 60
-        },
-        {
             "user": "Peinlicher",
             "link": "https://www.youtube.com/watch?v=MyYQN6FGxns",
             "percent": 100,
@@ -66,6 +60,7 @@
         }
     ]
 }
+
 
 
 
