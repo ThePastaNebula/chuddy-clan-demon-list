@@ -17,6 +17,12 @@
             "hz": 360
         },
         {
+            "user": "Ilyas",
+            "link": "https://www.youtube.com/watch?v=0u-ojbSNsb0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "therealGDF",
             "link": "https://www.youtube.com/watch?v=L-CShoDMN34",
             "percent": 100,
@@ -25,6 +31,7 @@
     ]
 
 }
+
 
 
 
