@@ -4,5 +4,11 @@
     "verifier": "Sim0",
     "verification": "https://www.youtube.com/watch?v=CCETX-vx5QM",
     "records": [
+        {
+            "user": "Ilyas",
+            "link": "https://www.youtube.com/watch?v=kWmlLn0uRak",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
