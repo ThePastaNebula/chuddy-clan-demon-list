@@ -11,11 +11,23 @@
             "hz": 360
         },
         {
+            "user": "Muffin Cat",
+            "link": "https://www.youtube.com/watch?v=60ciCX9KCB4",
+            "percent": 100,
+            "hz": 120
+        },
+        {
             "user": "Sim0",
             "link": "https://www.youtube.com/watch?v=F5PCEsZ1sbE",
             "percent": 100,
-            "hz": 120
-        }
+            "hz": 240
+        },
+        {
+            "user": "therealGDF",
+            "link": "https://www.youtube.com/watch?v=NZc9KZRfJkg",
+            "percent": 100,
+            "hz": 240
+        },
 
     ]
 }
