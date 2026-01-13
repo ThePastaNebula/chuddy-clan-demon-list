@@ -1,75 +1,68 @@
 {
-    "name": "acu",
-    "author": "neigefeu",
-    "verifier": "therealGDF",
-    "verification": "https://www.youtube.com/watch?v=BNB8MAVO3iw",
-    "records": [
-        {
-            "user": "ThePastaNebula",
-            "link": "https://www.youtube.com/watch?v=BhRzDKlYm_4",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Skyia321",
-            "link": "https://www.youtube.com/watch?v=uFcS3guCcNo",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "gado",
-            "link": "https://www.youtube.com/watch?v=fiWH1pT5Jvw",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Muffin Cat",
-            "link": "https://www.youtube.com/watch?v=i64eVUSlrGk",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Fearme718",
-            "link": "https://www.youtube.com/watch?v=n0i7NMC0F0w",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Minix",
-            "link": "https://www.youtube.com/watch?v=",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Slxyer_?",
-            "link": "https://www.youtube.com/watch?v=kYeYvkzo1C8",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Sim0",
-            "link": "https://www.youtube.com/watch?v=SvzsBP3DO5Q",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Peinlicher",
-            "link": "https://www.youtube.com/watch?v=MyYQN6FGxns",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+  "name": "acu",
+  "author": "neigefeu",
+  "verifier": "therealGDF",
+  "verification": "https://www.youtube.com/watch?v=BNB8MAVO3iw",
+  "records": [
+    {
+      "user": "ThePastaNebula",
+      "link": "https://www.youtube.com/watch?v=BhRzDKlYm_4",
+      "percent": 100,
+      "hz": 360
+    },
+    {
+      "user": "Skyia321",
+      "link": "https://www.youtube.com/watch?v=uFcS3guCcNo",
+      "percent": 100,
+      "hz": 360
+    },
+    {
+      "user": "gado",
+      "link": "https://www.youtube.com/watch?v=fiWH1pT5Jvw",
+      "percent": 100,
+      "hz": 360
+    },
+    {
+      "user": "Muffin Cat",
+      "link": "https://www.youtube.com/watch?v=i64eVUSlrGk",
+      "percent": 100,
+      "hz": 120
+    },
+    {
+      "user": "Fearme718",
+      "link": "https://www.youtube.com/watch?v=n0i7NMC0F0w",
+      "percent": 100,
+      "hz": 360
+    },
+    {
+      "user": "Minix",
+      "link": "https://www.youtube.com/watch?v=",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Slxyer_?",
+      "link": "https://www.youtube.com/watch?v=kYeYvkzo1C8",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Sim0",
+      "link": "https://www.youtube.com/watch?v=SvzsBP3DO5Q",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Peinlicher",
+      "link": "https://www.youtube.com/watch?v=MyYQN6FGxns",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Vertu",
+      "link": "https://www.youtube.com/watch?v=xbVJv_EGMg0",
+      "percent": 100,
+      "hz": 60
+    }
+  ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
