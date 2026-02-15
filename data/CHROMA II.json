@@ -4,5 +4,13 @@
     "verifier": "therealGDF",
     "verification": "https://youtu.be/Xc5mUBwzw4Q?si=P8O9gjqWkh7zKxoO",
     "records": [
+        {
+            "user": "Muffin Cat",
+            "link": "https://youtu.be/oIHXbUR-qEs",
+            "percent": 100,
+            "hz": 240
+        }
+
     ]
+
 }
