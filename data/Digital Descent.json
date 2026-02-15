@@ -1,20 +1,20 @@
 {
-    "name": "Digital Descent",
-    "author": "ViPriN",
-    "verifier": "ThePastaNebula",
-    "verification": "https://www.youtube.com/watch?v=dWMJS2V16lw",
-    "records": [
-        {
-            "user": "Skyia321",
-            "link": "https://www.youtube.com/watch?v=AksdS1TUZe0",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Muffin Cat",
-            "link": "https://www.youtube.com/watch?v=id9DFO8buMA",
-            "percent": 100,
-            "hz": 120
-        }
-    ]
+  "name": "Digital Descent",
+  "author": "ViPriN",
+  "verifier": "ThePastaNebula",
+  "verification": "https://www.youtube.com/watch?v=dWMJS2V16lw",
+  "records": [
+    {
+      "user": "Skyia321",
+      "link": "https://www.youtube.com/watch?v=AksdS1TUZe0",
+      "percent": 100,
+      "hz": 360
+    },
+    {
+      "user": "Muffin Cat",
+      "link": "https://www.youtube.com/watch?v=id9DFO8buMA",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
 }

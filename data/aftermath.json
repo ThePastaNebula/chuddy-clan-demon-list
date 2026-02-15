@@ -1,34 +1,32 @@
 {
-    "name": "aftermath",
-    "author": "Exinity",
-    "verifier": "ThePastaNebula",
-    "verification": "https://www.youtube.com/watch?v=31_3luCPBZs",
-    "records": [
-        {
-            "user": "gado",
-            "link": "https://www.youtube.com/watch?v=HFyoL1l8ejE",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Muffin Cat",
-            "link": "https://www.youtube.com/watch?v=60ciCX9KCB4",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Sim0",
-            "link": "https://www.youtube.com/watch?v=F5PCEsZ1sbE",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "therealGDF",
-            "link": "https://www.youtube.com/watch?v=NZc9KZRfJkg",
-            "percent": 100,
-            "hz": 240
-        },
-
-    ]
+  "name": "aftermath",
+  "author": "Exinity",
+  "verifier": "ThePastaNebula",
+  "verification": "https://www.youtube.com/watch?v=31_3luCPBZs",
+  "records": [
+    {
+      "user": "gado",
+      "link": "https://www.youtube.com/watch?v=HFyoL1l8ejE",
+      "percent": 100,
+      "hz": 360
+    },
+    {
+      "user": "Muffin Cat",
+      "link": "https://www.youtube.com/watch?v=60ciCX9KCB4",
+      "percent": 100,
+      "hz": 60
+    },
+    {
+      "user": "Sim0",
+      "link": "https://www.youtube.com/watch?v=F5PCEsZ1sbE",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "therealGDF",
+      "link": "https://www.youtube.com/watch?v=NZc9KZRfJkg",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
-

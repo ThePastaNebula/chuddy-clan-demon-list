@@ -1,14 +1,14 @@
 {
-    "name": "Removed Submission",
-    "author": "WHErwin",
-    "verifier": "ThePastaNebula",
-    "verification": "https://www.youtube.com/watch?v=ZpBlk_vbtA4",
-    "records": [
-        {
-            "user": "Muffin Cat",
-            "link": "https://www.youtube.com/watch?v=mYZqhm91BS0",
-            "percent": 100,
-            "hz": 120
-        }
-    ]
+  "name": "Removed Submission",
+  "author": "WHErwin",
+  "verifier": "ThePastaNebula",
+  "verification": "https://www.youtube.com/watch?v=ZpBlk_vbtA4",
+  "records": [
+    {
+      "user": "Muffin Cat",
+      "link": "https://www.youtube.com/watch?v=mYZqhm91BS0",
+      "percent": 100,
+      "hz": 75
+    }
+  ]
 }

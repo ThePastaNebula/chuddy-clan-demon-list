@@ -1,15 +1,14 @@
 {
-    "name": "Cat Planet",
-    "author": "icedcave",
-    "verifier": "xyzJake",
-    "verification": "https://www.youtube.com/watch?v=87gRUYu3dIE",
-    "records": [
-        {
-            "user": "Muffin Cat",
-            "link": "https://www.youtube.com/watch?v=JKxhEO_-1Og",
-            "percent": 100,
-            "hz": 120
-        }
-    ]
-
+  "name": "Cat Planet",
+  "author": "icedcave",
+  "verifier": "xyzJake",
+  "verification": "https://www.youtube.com/watch?v=87gRUYu3dIE",
+  "records": [
+    {
+      "user": "Muffin Cat",
+      "link": "https://www.youtube.com/watch?v=JKxhEO_-1Og",
+      "percent": 100,
+      "hz": 68
+    }
+  ]
 }

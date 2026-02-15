@@ -1,50 +1,44 @@
 {
-    "name": "Allegiance",
-    "author": "nikroplays",
-    "verifier": "ThePastaNebula",
-    "verification": "https://www.youtube.com/watch?v=9deiLo3CM3Q",
-    "records": [
-        {
-            "user": "Sim0",
-            "link": "https://www.youtube.com/watch?v=w7o9-A-I4dU",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Skyia321",
-            "link": "https://www.youtube.com/watch?v=BRFphOVGffU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "therealGDF",
-            "link": "https://www.youtube.com/watch?v=y2EuhFMZgsQ",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Muffin Cat",
-            "link": "https://www.youtube.com/watch?v=-9zphm9Pk0w",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Slxyer_?",
-            "link": "https://www.youtube.com/watch?v=GS7GkF2WX6o",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Fearme718",
-            "link": "https://www.youtube.com/watch?v=IQuYWsBGXC8",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+  "name": "Allegiance",
+  "author": "nikroplays",
+  "verifier": "ThePastaNebula",
+  "verification": "https://www.youtube.com/watch?v=9deiLo3CM3Q",
+  "records": [
+    {
+      "user": "Sim0",
+      "link": "https://www.youtube.com/watch?v=w7o9-A-I4dU",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Skyia321",
+      "link": "https://www.youtube.com/watch?v=BRFphOVGffU",
+      "percent": 100,
+      "hz": 360
+    },
+    {
+      "user": "therealGDF",
+      "link": "https://www.youtube.com/watch?v=y2EuhFMZgsQ",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Muffin Cat",
+      "link": "https://www.youtube.com/watch?v=-9zphm9Pk0w",
+      "percent": 100,
+      "hz": 75
+    },
+    {
+      "user": "Slxyer_?",
+      "link": "https://www.youtube.com/watch?v=GS7GkF2WX6o",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Fearme718",
+      "link": "https://www.youtube.com/watch?v=IQuYWsBGXC8",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
-
-
-
-
-
-
